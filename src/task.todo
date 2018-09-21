@@ -2,3 +2,4 @@
   ✔ use npm run deploy @done (9/21/2018, 9:51:55 PM)
 ☐ Identify repeatable areas and
     ✔ create a template for the layout @done (9/21/2018, 11:35:40 PM)
+    ✔ extract header, footer and nav into components @done (9/22/2018, 12:08:25 AM)
