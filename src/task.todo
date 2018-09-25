@@ -1,5 +1,22 @@
 ✔ see our website online @done (9/21/2018, 9:51:42 PM)
   ✔ use npm run deploy @done (9/21/2018, 9:51:55 PM)
-☐ Identify repeatable areas and
+✔ Identify repeatable areas and @done (9/22/2018, 12:11:28 AM)
     ✔ create a template for the layout @done (9/21/2018, 11:35:40 PM)
     ✔ extract header, footer and nav into components @done (9/22/2018, 12:08:25 AM)
+✔ Use JavaScript variables to pass data through pug files @done (9/24/2018, 4:50:49 PM)
+✔ Refactor header using "each" loop @done (9/24/2018, 4:51:11 PM)
+✔ Refactor nav using "each" loop @done (9/24/2018, 5:16:32 PM)
+☐ Create multiple pages
+    ☐ home
+      ☐ css
+        ☐ What is CSS
+        ☐ Why use CSS
+        ☐ CSS saver
+      ☐ html
+        ☐ HTML elements
+        ☐ HTML attributes
+        ☐ HTML Headings
+      ☐ javascript
+        ☐ Js Comments
+        ☐ Js Variables
+        ☐ Js Operators
